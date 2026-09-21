@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Asemahle | Validation Support | Fraud Prevention
+📍 Johannesburg, South Africa | Open to Hybrid
 
-<!--
-**asemahle12/asemahle12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+Aspiring Fraud Prevention & Validation Support Representative with background in customer support and Microsoft security. Currently studying Microsoft Defender (SC-200) - focused on threat protection, identity verification, and fraud detection.
 
-Here are some ideas to get you started:
+### Skills for PayJoy
+- **ID Validation & Fraud Prevention:** Real-time document verification, spotting suspicious transactions
+- **Customer Support:** Dispute resolution, empathy-driven support
+- **Tools:** Microsoft Defender, Excel, Word, Office 365
+- **Languages:** English, isiZulu / isiXhosa
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Learning
+- Microsoft Defender for Office 365
+- Safe Attachments & Safe Links
+- Root-cause analysis for disputes
+
+### Contact
+- Email: asemahlemahle091@gmail.com
+- GitHub: github.com/asemahle12
